@@ -7,4 +7,4 @@
 -NEXT HOBBY IS GOING TO BE WRITING CODES.
 -WANT TO BE A BACKEND DEVELOPER OR DATA ANALYSER AND HOPING THAT IT GOES WELL
 -AND A HUGE OF THIS GUY 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lionel_Messi_20180626.jpg/420px-Lionel_Messi_20180626.jpg]
+![![Lionel_Messi_20180626](https://github.com/user-attachments/assets/d4b3ffb1-4d4c-4e00-a61a-d8e289188ae8)]

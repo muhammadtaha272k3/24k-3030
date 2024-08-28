@@ -1,0 +1,23 @@
+START
+
+//INPUT/OUTPUT
+SET 1st number.
+SET 2nd number.
+SET 3rd number.
+
+//VARIABLE /INITIALIZATION
+SET 1st number as A
+SET 2nd number as B
+SET 3rd number as C
+
+//PROCESS STEPS
+SET A> B and C OR B> A and C OR C> A and B
+
+//CONDITIONAL STATEMENT
+IF A>B and C THEN
+   PRINT " A has maximum value "
+IF B>A and C THEN
+   PRINT " B has maximum value "
+IF C>A and B THEN 
+   PRINT " C has maximum value "
+END

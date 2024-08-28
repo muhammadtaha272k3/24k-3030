@@ -1,0 +1,14 @@
+START
+
+//INPUT/OUTPUT
+INPUT 1st number.
+INPUT 2nd number.
+INPUT 3rd number.
+
+//VARIABLE AND INITIALIZATION
+SET DIFFERENCE to 0.
+//PROCESS STEPS
+SET DIFFERENCE to -(1st number)-(2nd number)-(3rd number)
+SET MULTIPLY to difference*(-1)
+
+END

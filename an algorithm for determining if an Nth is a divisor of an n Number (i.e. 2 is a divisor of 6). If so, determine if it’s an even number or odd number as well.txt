@@ -1,0 +1,13 @@
+ask user to enter Nth number.
+Ask user to enter nth number.
+SET C as a perfect dividend.
+IF n/N = c THEN
+  PRINT N is a divisor of n
+ELSE
+    PRINT N  is not a divisor of n
+SET A = 2 
+IF C/A is equal to a perfect number THEN
+  PRINT " C is an even number "
+ELSE 
+  PRINT " c is an odd number "
+END

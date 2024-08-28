@@ -1,0 +1,16 @@
+SET numbers 1 to 12
+SET name of months in a year
+SET 1 as January.
+SET 2 as February.
+SET 3 as March.
+SET 4 as April.
+SET 5 as May.
+SET 6 as June.
+SET 7 as July.
+SET 8 as August.
+SET 9 as  September.
+SET 10 as October.
+SET 11 as November.
+SET 12 as December.
+ask use to enter a the desired number
+DISPLY the name of the month according to the number entered by the user.
